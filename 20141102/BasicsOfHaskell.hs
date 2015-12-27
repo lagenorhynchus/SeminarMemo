@@ -6,9 +6,9 @@ main :: IO ()
 main = do
   print h
   print w
-    where
-      h = "Hello,"
-      w = "world!"
+  where
+    h = "Hello,"
+    w = "world!"
 
 fact :: Integral a => a -> a
 fact 0 = 1
