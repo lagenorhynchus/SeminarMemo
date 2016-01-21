@@ -1,7 +1,7 @@
 DDD
 ===
 
-## DDD(domain driven development)
+## DDD(domain-driven design)
 - 「ドメイン」層のソフトウェア設計
 - オブジェクト指向設計
 - XP(extreme programming)
