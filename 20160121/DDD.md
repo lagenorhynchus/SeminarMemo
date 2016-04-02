@@ -1,6 +1,8 @@
 DDD
 ===
 
+> SlideShare: [ドメイン駆動設計のためのオブジェクト指向入門](http://www.slideshare.net/masuda220/ss-57352072)
+
 ## DDD(domain-driven design)
 - 「ドメイン」層のソフトウェア設計
 - オブジェクト指向設計
